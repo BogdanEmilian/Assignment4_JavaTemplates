@@ -1,0 +1,1 @@
+Welcome $user.user to your first Velocity application. Your email address is $user.email.
