@@ -1,1 +1,9 @@
-Welcome $user.user to your first Velocity application. Your email address is $user.email.
+Hello there!
+
+This is the list of your tasks:
+#foreach ($task in $tasks)
+    Title:          $task.title
+    Description:    $task.description
+    Due date:       $task.dueDate
+    Status:         $task.status
+#end
