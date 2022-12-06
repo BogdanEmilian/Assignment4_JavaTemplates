@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TaskHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TaskHandler.java" afterDir="false" />
     </list>
+    <list default="true" id="c7565ae6-cb68-499f-9461-dee830de3479" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +83,7 @@
       <workItem from="1669444806973" duration="704000" />
       <workItem from="1670005662576" duration="699000" />
       <workItem from="1670355541765" duration="1396000" />
+      <workItem from="1670355541765" duration="2087000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1667394981831</created>
