@@ -1,6 +1,0 @@
-<!ELEMENT queue (task*)>
-<!ELEMENT task (title,description, dueDate, status)>
-<!ELEMENT title (#PCDATA)>
-<!ELEMENT description (#PCDATA)>
-<!ELEMENT dueDate (#PCDATA)>
-<!ELEMENT status (#PCDATA)>
