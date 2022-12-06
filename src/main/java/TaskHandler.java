@@ -33,6 +33,7 @@ public class TaskHandler extends DefaultHandler {
 
     @Override
     public void startElement(String uri, String lName, String qName, Attributes attr) throws SAXException {
+        taskList.list = new ArrayList<>();
         switch (qName) {
             case TASKS:
                 taskList.list = new ArrayList<>();

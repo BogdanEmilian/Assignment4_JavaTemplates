@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7565ae6-cb68-499f-9461-dee830de3479" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TaskHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TaskList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TaskHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TaskHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,8 @@
       <workItem from="1669122571945" duration="3356000" />
       <workItem from="1669201666341" duration="6586000" />
       <workItem from="1669444806973" duration="704000" />
-      <workItem from="1670005662576" duration="637000" />
+      <workItem from="1670005662576" duration="699000" />
+      <workItem from="1670355541765" duration="1396000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1667394981831</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669444897989</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="XML parsing">
+      <created>1670007702395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670007702395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="converting from example to requirements" />
     <MESSAGE value="adding xml file and its template" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding xml file and its template" />
+    <MESSAGE value="XML parsing" />
+    <option name="LAST_COMMIT_MESSAGE" value="XML parsing" />
   </component>
 </project>
