@@ -2,8 +2,8 @@ Hello there!
 
 This is the list of your tasks:
 #foreach ($task in $tasks)
-    Title:          $task.title
-    Description:    $task.description
-    Due date:       $task.dueDate
-    Status:         $task.status
+Title:          $task.title
+Description:    $task.description
+Due date:       $task.dueDate
+Status:         $task.status
 #end
